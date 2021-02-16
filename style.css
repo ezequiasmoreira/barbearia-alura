@@ -2,6 +2,9 @@ body {
     background: #CCCCCC;
 }
 
+#baner {
+    width: 100%;
+}
 p, h1 {
     text-align: center;    
 }

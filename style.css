@@ -10,7 +10,11 @@ body {
     background: #CCCCCC;
     padding: 30px;
 }
-p, h1 {
+
+.titulo-principal{
+    padding-left: 20px;
+}
+.titulo-centralizado {
     text-align: center;    
 }
 
